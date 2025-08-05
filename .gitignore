@@ -1,0 +1,16 @@
+build/
+
+.dart_tool/
+pubspek.lock
+
+.idea/
+.vscode/
+
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/.gradle/
+
+*.log
+*.tmp
+
+*.DS_Store
